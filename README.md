@@ -5,6 +5,6 @@ Hardcoded Login Screen, when entered correct credentials, it opens the Temperatu
 * Please make sure you have Microsoft Visual Studio Installed
 * As well as .NET desktop development Workload Installed In Visual Studio
 
-#Credentials
+# Credentials
 * Username - user
 * Password - user123
